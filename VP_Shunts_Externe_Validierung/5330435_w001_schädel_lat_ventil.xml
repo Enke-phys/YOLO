@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>5330435_w001_schädel_lat_ventil.jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/5330435_w001_schädel_lat_ventil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2410</width>
+		<height>1947</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Codman Certas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1057</xmin>
+			<ymin>965</ymin>
+			<xmax>1196</xmax>
+			<ymax>1081</ymax>
+		</bndbox>
+	</object>
+</annotation>

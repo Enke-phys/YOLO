@@ -1,0 +1,38 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>3983983_t001_schädel_lat.jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/3983983_t001_schädel_lat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2976</width>
+		<height>3443</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proSA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1504</xmin>
+			<ymin>1512</ymin>
+			<xmax>1664</xmax>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>proGAV 2.0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1532</xmin>
+			<ymin>1222</ymin>
+			<xmax>1683</xmax>
+			<ymax>1381</ymax>
+		</bndbox>
+	</object>
+</annotation>

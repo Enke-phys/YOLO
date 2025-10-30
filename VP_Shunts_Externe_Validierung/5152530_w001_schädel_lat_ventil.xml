@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>5152530_w001_schädel_lat_ventil.jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/5152530_w001_schädel_lat_ventil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1398</width>
+		<height>1509</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Codman Hakim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>926</ymin>
+			<xmax>348</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+</annotation>

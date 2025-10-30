@@ -1,0 +1,38 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>5184781_t_schädel_lat..jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/5184781_t_schädel_lat..jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2022</width>
+		<height>2253</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proGAV 2.0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>1184</ymin>
+			<xmax>951</xmax>
+			<ymax>1324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>proGAV Gravitationseinheit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>858</xmin>
+			<ymin>1364</ymin>
+			<xmax>905</xmax>
+			<ymax>1500</ymax>
+		</bndbox>
+	</object>
+</annotation>

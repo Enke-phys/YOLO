@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>5501072_w001p_schädel_päd._lat..jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/5501072_w001p_schädel_päd._lat..jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1310</width>
+		<height>1461</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Codman Certas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>694</ymin>
+			<xmax>601</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+</annotation>

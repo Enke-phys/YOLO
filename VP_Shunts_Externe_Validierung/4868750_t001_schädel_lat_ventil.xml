@@ -1,0 +1,38 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>4868750_t001_schädel_lat_ventil.jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/4868750_t001_schädel_lat_ventil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2354</width>
+		<height>2467</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proGAV 2.0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1204</xmin>
+			<ymin>1185</ymin>
+			<xmax>1352</xmax>
+			<ymax>1333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>proGAV Gravitationseinheit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1182</xmin>
+			<ymin>1395</ymin>
+			<xmax>1254</xmax>
+			<ymax>1555</ymax>
+		</bndbox>
+	</object>
+</annotation>

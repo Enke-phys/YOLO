@@ -1,0 +1,38 @@
+<annotation>
+	<folder>VP_Shunts_Externe_Validierung</folder>
+	<filename>4421280_t001p_schädel_päd._lat..jpg</filename>
+	<path>/Users/mathiasmeetschen/Desktop/VP_Shunts_Externe_Validierung/4421280_t001p_schädel_päd._lat..jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1996</width>
+		<height>2738</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proGAV 2.0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1062</xmin>
+			<ymin>778</ymin>
+			<xmax>1217</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>m.blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1161</xmin>
+			<ymin>990</ymin>
+			<xmax>1305</xmax>
+			<ymax>1140</ymax>
+		</bndbox>
+	</object>
+</annotation>
