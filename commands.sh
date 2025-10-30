@@ -1,12 +1,15 @@
 #Training starten
 yolo detect train \
-  model=yolov8n.pt \
+  model=yolov9e.pt \
   data=/Users/enke/Projects/Hirnventile/YOLO/data/dataset.yaml \
-  device=cpu \
+  device=0 \
   epochs=50 \
-  imgsz=50 \
-  batch=4 \
-  workers=1
+  imgsz=640 \
+  batch=16 \
+  workers=4 \
+  optimizer=AdamW \
+  lr0=0.001 \
+  weight_decay=0.0005 \
 
 #Validierung starten
 #yolo detect val \
